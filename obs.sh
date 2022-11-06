@@ -8,4 +8,6 @@ echo "#   version: 20221103   #"
 echo "#   current: ${date -s} ##
 echo "#########################"
 
-
+# self-check
+# install nessery soft
+# curl virtwhat iperf3
