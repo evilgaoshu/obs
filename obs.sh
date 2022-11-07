@@ -11,3 +11,6 @@ echo "#########################"
 # self-check
 # install nessery soft
 # curl virtwhat iperf3
+
+# step1 systeminfo
+# step2 cpubench
