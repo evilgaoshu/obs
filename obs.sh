@@ -14,3 +14,6 @@ echo "#########################"
 
 # step1 systeminfo
 # step2 cpubench
+# step3 membench
+# step4 diskbench
+# step5 ipcheck
