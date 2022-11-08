@@ -15,3 +15,11 @@ One beach script for all beachmark
 1. single core
 2. multi core
 3. refer (link)
+### mem benchmark
+1. ilemonbench
+### disk benchmark
+### net benchmark
+### ip check
+1. gfw check
+2. email blacklist check
+3. stream unlock check
