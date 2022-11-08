@@ -1,6 +1,7 @@
 # obs
 One beach script for all beachmark
-
+## quick start
+> runtime will be so long, please run it in tmux/screen
 ## Feature
 ### system info
 1. Uptime
