@@ -8,7 +8,7 @@ One beach script for all beachmark
 3. Cores
 4. CPU FLAG (AES-NI VM-x/AMD-V)
 5. Mem RAM SWAP
-6. Disk       
+6. Disk/Partition LVM check       
 7. Distro     
 8. Kernel     
 ### cpu benchmark(Geekbench 5 Benchmark Test)
