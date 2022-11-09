@@ -20,6 +20,9 @@ One beach script for all beachmark
 1. ilemonbench
 ### disk benchmark
 ### net benchmark
+1. route to china
+2. speedtest
+3. iperf3
 ### ip check
 1. gfw check
 2. email blacklist check
