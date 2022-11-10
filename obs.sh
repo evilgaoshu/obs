@@ -8,6 +8,8 @@ echo "#   version: 20221103   #"
 echo "#   current: ${date -s} ##
 echo "#########################"
 
+func self-check()
+   yum install curl wget iperf3
 # self-check
 # install nessery soft
 # curl virtwhat iperf3
