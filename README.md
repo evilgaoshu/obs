@@ -1,5 +1,7 @@
 # obs
 One beach script for all beachmark
+## module
+sample and full
 ## quick start
 > runtime will be so long, please run it in tmux/screen
 ## Feature
