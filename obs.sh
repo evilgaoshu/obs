@@ -5,8 +5,9 @@
 echo "#########################"
 echo "#   one beach script    #"
 echo "#   version: 20221103   #"
-echo "#   current: ${date -s} ##
 echo "#########################"
+
+echo date and module
 
 func self-check()
    yum install curl wget iperf3
