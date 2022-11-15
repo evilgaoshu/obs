@@ -9,9 +9,10 @@ echo "#########################"
 
 echo date and module
 
-func self-check()
+self-check(){
    yum install curl wget iperf3
    apt install curl wget iperf3
+}
 # self-check
 # install nessery soft
 # curl virtwhat iperf3
