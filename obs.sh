@@ -24,5 +24,6 @@ self-check(){
 # step5 ipcheck
 
 # try catch
+# single process ctrl-c etc
 # format output
 # cololful
