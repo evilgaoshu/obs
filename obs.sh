@@ -22,8 +22,10 @@ self-check(){
 # step3 membench
 # step4 diskbench
 # step5 ipcheck
+# step6
 
 # try catch
 # single process ctrl-c etc
 # format output
 # cololful
+
