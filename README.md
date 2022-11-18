@@ -32,3 +32,5 @@ sample and full
 4. 威胁情报
 ## Thanks
 YABS
+## License
+Obs is licensed under the [GPLv3](https://raw.githubusercontent.com/evilgaoshu/obs/main/LICENSE) license
