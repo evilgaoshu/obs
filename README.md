@@ -29,7 +29,7 @@ sample and full
 1. gfw check
 2. email blacklist check
 3. stream unlock check
-4. 威胁情报
+4. 威胁情报 国内 国外厂商
 ## Thanks
 YABS
 ## License
