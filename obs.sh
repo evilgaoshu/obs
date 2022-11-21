@@ -22,7 +22,7 @@ self-check(){
 # step3 membench
 # step4 diskbench
 # step5 ipcheck
-# step6
+# step6 thread 
 
 # try catch
 # single process ctrl-c etc
