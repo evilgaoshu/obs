@@ -32,5 +32,6 @@ sample and full
 4. 威胁情报 国内 国外厂商
 ## Thanks
 YABS
+Bensh.sh
 ## License
 Obs is licensed under the [GPLv3](https://raw.githubusercontent.com/evilgaoshu/obs/main/LICENSE) license
