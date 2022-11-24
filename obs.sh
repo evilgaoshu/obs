@@ -10,6 +10,8 @@ echo "#########################"
 echo date and module
 
 self-check(){
+# check disrabition
+# install relay
    yum install curl wget iperf3 deidecode
    apt install curl wget iperf3 deidecode
 }
