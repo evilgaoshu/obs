@@ -18,7 +18,7 @@ sample and full
 1. single core
 2. multi core
 3. refer (link)
-### mem benchmark
+### mem benchmark ecc
 1. ilemonbench
 ### disk benchmark
 ### net benchmark
