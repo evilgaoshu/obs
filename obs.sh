@@ -10,8 +10,8 @@ echo "#########################"
 echo date and module
 
 self-check(){
-   yum install curl wget iperf3
-   apt install curl wget iperf3
+   yum install curl wget iperf3 deidecode
+   apt install curl wget iperf3 deidecode
 }
 # self-check
 # install nessery soft
