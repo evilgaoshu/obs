@@ -14,7 +14,7 @@ sample and full
 6. Disk/Partition LVM check       
 7. Distro     
 8. Kernel     
-### cpu benchmark(Geekbench 5 Benchmark Test)
+### cpu benchmark(Geekbench 5 Benchmark Test) aes avx512
 1. single core
 2. multi core
 3. refer (link)
