@@ -17,7 +17,7 @@ sample and full
 ### cpu benchmark(Geekbench 5 Benchmark Test) aes avx512
 1. single core
 2. multi core
-3. refer (link)
+3. refer
 ### mem benchmark ecc
 1. ilemonbench
 ### disk benchmark
