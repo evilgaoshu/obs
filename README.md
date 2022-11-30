@@ -1,5 +1,5 @@
 # obs
-One beach script for all beachmark
+One beach script for all type beachmark
 ## module
 sample and full
 ## quick start
