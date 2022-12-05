@@ -29,9 +29,9 @@ sample and full
 1. gfw check
 2. email blacklist check
 3. stream unlock check
-4. 国内 国外厂商威胁情报
+4. 国内 国外厂商威胁
 ## Thanks
-YABS
+YABS 
 Bensh.sh
 ## License
 Obs is licensed under the [GPLv3](https://raw.githubusercontent.com/evilgaoshu/obs/main/LICENSE) license
