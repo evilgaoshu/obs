@@ -7,7 +7,7 @@ echo "#   one beach script    #"
 echo "#   version: 20221103   #"
 echo "#########################"
 
-echo date and module
+echo date and module shiyong
 
 self-check(){
 # check disrabition
