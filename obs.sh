@@ -12,8 +12,8 @@ echo date and module shiyong
 self-check(){
 # check disrabition
 # install relay
-   yum install curl wget iperf3 deidecode vim jq
-   apt install curl wget iperf3 deidecode vim jq
+   yum install curl wget iperf3 deidecode vim jq dd
+   apt install curl wget iperf3 deidecode vim jq dd
 }
 # self-check
 # install nessery soft
