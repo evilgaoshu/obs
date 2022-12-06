@@ -21,6 +21,7 @@ sample and full
 ### mem benchmark ecc
 1. ilemonbench
 ### disk benchmark
+dd fio
 ### net benchmark
 1. route to china
 2. speedtest
