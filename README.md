@@ -5,7 +5,7 @@ sample and full
 ## quick start
 > runtime will be so long, please run it in tmux/screen
 ## Feature
-### system info
+### system info mode
 1. Uptime
 2. Processor(modles socket )
 3. Cores
