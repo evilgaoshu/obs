@@ -20,7 +20,7 @@ sample and full
 3. refer
 ### mem benchmark ecc
 1. ilemonbench
-### disk benchmark
+### disk benchmark hdd nvme
 dd fio
 ### net benchmark
 1. route to china
