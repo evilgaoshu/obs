@@ -12,8 +12,8 @@ echo date and module mode
 self-check(){
 # check disrabition
 # install relay
-   yum install curl wget iperf3 deidecode vim jq dd mtr
-   apt install curl wget iperf3 deidecode vim jq dd mtr
+   yum install curl wget iperf3 deidecode vim jq dd mtr dd
+   apt install curl wget iperf3 deidecode vim jq dd mtr dd
 }
 # self-check
 # install nessery soft
