@@ -19,7 +19,7 @@ self-check(){
 # install nessery soft
 # curl virtwhat iperf3
 
-# step1 systeminfo
+# step1 systeminfo ip地址库 maxmind ipip.net ipinfo.io
 # step2 cpubench
 # step3 membench
 # step4 diskbench raid
